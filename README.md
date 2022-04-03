@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **seanpmyers/seanpmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning:
+
+- [Rust](https://www.rust-lang.org/)
+- [WebAssembly](https://webassembly.org/)
+
+🔭 I’m currently working on:
+
+- Building a web application with [Rust](https://www.rust-lang.org/)
