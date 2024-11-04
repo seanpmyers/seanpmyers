@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning:
+🌱 I’m currently learning about:
 
 - [Rust](https://www.rust-lang.org/)
 - [WebAssembly](https://webassembly.org/)
 
 🔭 I’m currently working on:
 
-- Building a web application with [Rust](https://www.rust-lang.org/)
+- Building native graphical user interfaces with [Rust](https://www.rust-lang.org/)
