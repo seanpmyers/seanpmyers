@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning about:
 
-- [Rust](https://www.rust-lang.org/)
-- [WebAssembly](https://webassembly.org/)
+I’m currently working on:
 
-🔭 I’m currently working on:
-
-- Building native graphical user interfaces with [Rust](https://www.rust-lang.org/)
+- Building an applicaton with [Rust](https://www.rust-lang.org/) using [egui](https://github.com/emilk/egui)
